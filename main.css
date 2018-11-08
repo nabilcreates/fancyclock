@@ -6,9 +6,10 @@ body {
     margin: 0;
     background: #d66767;
     color: black;
+    word-wrap: break-word;
 }
 
-h1 {
+h1,h2 {
     font-family: 'IBM Plex Sans', sans-serif;
     font-weight: 700;
     margin: 0;
@@ -25,7 +26,7 @@ h1 {
 }
 
 
-.time h1 {
+.time h1,h2 {
     font-family: 'Kumar One Outline', cursive;
     font-size: 80px;
 }
